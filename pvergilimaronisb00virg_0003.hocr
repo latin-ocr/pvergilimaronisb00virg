@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvergilimaronisb00virg/pvergilimaronisb00virg_0003.png"; bbox 0 0 1820 2938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 602 897 650 1245">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 602 897 650 1245">
+     <span class='ocr_line' id='line_1_1' title="bbox 602 897 650 1245; baseline -38.667 270.667"><span class='ocrx_word' id='word_1_1' title='bbox 629 897 649 933; x_wconf 59' lang='grc' dir='ltr'><strong><em>ἓ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 622 947 646 956; x_wconf 37' lang='grc' dir='ltr'>Γ</span> <span class='ocrx_word' id='word_1_3' title='bbox 618 972 650 1002; x_wconf 36' lang='grc' dir='ltr'>μ.»</span> <span class='ocrx_word' id='word_1_4' title='bbox 602 1020 640 1050; x_wconf 51' lang='grc' dir='ltr'>,ω</span> <span class='ocrx_word' id='word_1_5' title='bbox 608 1061 641 1184; x_wconf 38' lang='lat' dir='ltr'>bum&amp;</span> <span class='ocrx_word' id='word_1_6' title='bbox 622 1228 633 1245; x_wconf 57' lang='grc' dir='ltr'><strong>ν</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 256 2932">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 256 2932">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 256 2932"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 256 2932; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
